@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">My Notepad</string>
+    <string name="home">Home</string>
+    <string name="calculator">Calculator</string>
+    <string name="recorder">Recorder</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+
+
+    <string name="tab_title_record">Record</string>
+    <string name="tab_title_saved_recordings">Saved Recordings</string>
+
+    <string name="capture_button_alt">Capture</string>
+    <string name="switch_camera_button_alt">Switch camera</string>
+    <string name="gallery_button_alt">Gallery</string>
+    <string name="back_button_alt">Back</string>
+    <string name="share_button_alt">Share</string>
+    <string name="share_hint">Share using</string>
+    <string name="capture_mode_camera">Camera</string>
+    <string name="capture_mode_hdr">HDR</string>
+    <string name="capture_mode_night">Night</string>
+    <string name="delete_button_alt">Delete</string>
+    <string name="delete_dialog">Delete current photo?</string>
+    <string name="delete_title">Confirm</string>
+
+    <string name="recordings">Recordings</string>
+    <string name="add">Add</string>
+    <string name="enter_notes">Enter Notes</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+
+
+    <string name="send_to">Send to</string>
+
+    <!-- Preference Titles -->
+
+    <string name="rate_app_here"><a href="https://play.google.com/store/apps/details?id=com.khumomashapa.notes" />Rate app here:</string>
+    <string name="settings">Settings</string>
+    <string name="_00_00">00:00</string>
+    <string name="mmm_dd_yyyy_hh_mm_a">mmm dd yyyy - hh:mm a</string>
+    <string name="https_play_google_com_store_apps_details_id_com_khumomashapa_notes">https://play.google.com/store/apps/details?id=com.khumomashapa.notes</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="themes">Themes</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="file_name">file_name</string>
+
+    <string name="text_for_content">Text for Content</string>
+    <string name="my_notepad">My Notepad</string>
+    <string name="date">Date</string>
+    <string name="content">Content</string>
+
+    <string name="recording_saved_successfully">Recording saved successfully as\n\"%s\"</string>
+    <string name="recording">Recording</string>
+    <string name="no_recordings_found">No recordings created by this app\nhave been found</string>
+    <string name="no_recordings_in_folder_found">No recordings have been found\nin the selected folder</string>
+
+    <!-- Confirmation dialog -->
+    <string name="delete_recordings_confirmation">Are you sure you want to delete %s?</string>    <!-- Are you sure you want to delete 5 recordings? -->
+    <plurals name="delete_recordings">
+        <item quantity="one">%d recording</item>
+        <item quantity="other">%d recordings</item>
+    </plurals>
+
+    <!-- Settings -->
+    <string name="try_hiding_notification">Try hiding the recording notification</string>
+    <string name="save_recordings_in">Save recordings in</string>
+    <string name="rename">Rename</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="select_all">Select All</string>
+    <string name="playpause">Play Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="unknown_error_occurred">Unknown error</string>
+    <string name="press_to_start_recording">Press to start recording</string>
+
+    <string name="pref_about_key">pref_about</string>
+    <string name="pref_about_title">About</string>
+    <string name="pref_about_desc">v%s</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="app_colours">App colours</string>
+    <string name="colours">Colours</string>
+    <string name="light_blue">Light Blue</string>
+    <string name="dark_blue">Dark Blue</string>
+    <string name="about">About</string>
+    <string name="preview">Preview</string>
+    <string name="store">Store</string>
+    <string name="orange">Orange</string>
+    <string name="credit">Credit</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="later">Later</string>
+    <string name="install">Install</string>
+    <string name="app_update_available">App Update Available</string>
+    <string name="app_update_downloaded">App Update Downloaded</string>
+    <string name="app_update_available_message">We have fixed some issues and added some cool feature in this update</string>
+    <string name="downloading">Downloading…</string>
+    <string name="installing_update">Installing Updates</string>
+    <string name="in_app_update">In-App-Update</string>
+
+    <string name="update_app">No update available</string>
+    <string name="app_update_msg">Please restart the app to update</string>
+    <string name="restart">Restart</string>
+    <string name="image">Image</string>
+    <string name="purchase">Purchase</string>
+    <string name="logo">Logo</string>
+    <string name="buy_all">Buy all</string>
+    <string name="space_wallpapers">Space Wallpapers</string>
+    <string name="gradient_wallpapers">Gradient Wallpapers</string>
+    <string name="nature_wallpapers">Nature Wallpapers</string>
+    <string name="geometric_wallpapers">Geometric Wallpapers</string>
+    <string name="generic_wallpapers">Generic Wallpapers</string>
+    <string name="purchase_all_for_r200">Purchase all for R200</string>
+    <string name="shapes_wallpapers">Strange Wallpapers</string>
+
+    <string name="download_Pdf">Download pdf</string>
+    <string name="download_Doc">Download Doc</string>
+    <string name="download_zip">Download Zip</string>
+    <string name="download_video">Download Video</string>
+    <string name="download_mp3">Download MP3</string>
+    <string name="openFolder">Open Downloaded Folder</string>
+    <string name="downloadStarted">Download Started…</string>
+    <string name="downloadCompleted">Download Completed…</string>
+    <string name="downloadFailed">Download Failed…</string>
+    <string name="downloadAgain">Download Again</string>
+    <string name="purchase_all_wallpapers">Purchase all wallpapers</string>
+    <string name="random_wallpapers">Random Wallpapers</string>
+    <string name="press_the_home_bar_in_the_memo_screen_to_scroll_to_the_top_of_long_lists">Press the Home bar in the memo screen to scroll to the top of long lists.</string>
+    <string name="download_all">Download All</string>
+    <string name="developed_by_khumo_kwezi_mashapa">Developed by Khumo Kwezi Mashapa</string>
+    <string name="information">Information</string>
+    <string name="tips">Tips</string>
+    <string name="customizations">Customizations</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="check_for_update">Check for update</string>
+    <string name="audio">Audio</string>
+    <string name="wallpaper_destination">Wallpaper destination</string>
+    <string name="download">Download</string>
+
+
+    <string name="addtitle">Add a new task</string>
+    <string name="tasktitle">Title</string>
+
+    <string name="titleHint">Task Title</string>
+    <string name="dateTitle">Choose Task Date</string>
+    <string name="dateButton">Change Date</string>
+    <string name="descHint">Description</string>
+    <string name="priorityTitle">Choose Task Priority</string>
+    <string name="priorityDialog">Task Priority</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="bugs">Report Bugs</string>
+    <string name="translate">Help translate the app</string>
+    <string name="privacy">Privacy Policy</string>
+
+    <string name="edit_title">Edit this task</string>
+    <string name="edit_date_title">Task Date</string>
+
+    <string name="overview">You have %s tasks to finish.</string>
+
+    <string name="add_note_validate">Validate</string>
+    <string name="add_note_edit_title">Title</string>
+    <string name="add_note_edit_task">Edit Task</string>
+    <string name="thank_you_for_the_support">Thank you for the support.</string>
+    <string name="important_task">Important Task</string>
+    <string name="navigation">Navigation</string>
+    <string name="check_list_mode">Check List Mode</string>
+    <string name="task">Task</string>
+    <string name="mark_as_important">Mark as important</string>
+    <string name="sound_recorder">Sound Recorder</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="ok">OK</string>
+    <string name="enter_name">Enter Name.</string>
+    <string name="do_you_want_to_save_the_recording">Do you want to save the recording?</string>
+    <string name="enter_task">Enter Task</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="snack_bar_text">Note deleted</string>
+    <string name="undo">Undo</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="version_number">Version 5.3.0</string>
+    <string name="search_for_recording">Search for recording</string>
+    <string name="equal_sign">=</string>
+    <string name="decimal_sign">.</string>
+    <string name="zero_btn">0</string>
+    <string name="minus_btn">-</string>
+    <string name="ce_btn">CE</string>
+    <string name="clear_btn">C</string>
+    <string name="division_btn">÷</string>
+    <string name="_9_btn">9</string>
+    <string name="_1_btn">1</string>
+    <string name="_2_btn">2</string>
+    <string name="_3_btn">3</string>
+    <string name="addition_btn">+</string>
+    <string name="_4_btn">4</string>
+    <string name="_5_btn">5</string>
+    <string name="_6_btn">6</string>
+    <string name="multipliction_btn">X</string>
+    <string name="_7_btn">7</string>
+    <string name="_8_btn">8</string>
+
+</resources>

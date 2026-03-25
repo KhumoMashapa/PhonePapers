@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300847999466",
+    "firebase_url": "https://my-wallpapers-8a4ea-default-rtdb.firebaseio.com",
+    "project_id": "my-wallpapers-8a4ea",
+    "storage_bucket": "my-wallpapers-8a4ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300847999466:android:23634ef3b48e5b18e76a93",
+        "android_client_info": {
+          "package_name": "com.khumomashapa.mywallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300847999466-c5evq1239iu0glr6hfim4j6u5baq9ckl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDHu01udfkzGP9meB9dss_cm_S_7QBWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300847999466-c5evq1239iu0glr6hfim4j6u5baq9ckl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

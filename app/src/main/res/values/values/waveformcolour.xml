@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="WaveformView">
+        <attr name="waveform_color" format="color"/>
+    </declare-styleable>
+</resources>

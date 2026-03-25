@@ -1,0 +1,2 @@
+rootProject.name = "My Wallpapers"
+include ':app'

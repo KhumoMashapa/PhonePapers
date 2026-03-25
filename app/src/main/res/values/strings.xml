@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">PhonePapers</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="app_colours">App colours</string>
+    <string name="colours">Colours</string>
+    <string name="light_blue">Light Blue</string>
+    <string name="dark_blue">Dark Blue</string>
+    <string name="about">About</string>
+    <string name="preview">Preview</string>
+    <string name="store">Store</string>
+    <string name="orange">Orange</string>
+    <string name="credit">Credit</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="later">Later</string>
+    <string name="install">Install</string>
+    <string name="app_update_available">App Update Available</string>
+    <string name="app_update_downloaded">App Update Downloaded</string>
+    <string name="app_update_available_message">We have fixed some issues and added some cool feature in this update</string>
+    <string name="downloading">Downloading…</string>
+    <string name="installing_update">Installing Updates</string>
+    <string name="in_app_update">In-App-Update</string>
+
+    <string name="download_Pdf">Download pdf</string>
+    <string name="download_Doc">Download Doc</string>
+    <string name="download_zip">Download Zip</string>
+    <string name="download_video">Download Video</string>
+    <string name="download_mp3">Download MP3</string>
+    <string name="openFolder">Open Downloaded Folder</string>
+    <string name="downloadStarted">Download Started…</string>
+    <string name="downloadCompleted">Download Completed…</string>
+    <string name="downloadFailed">Download Failed…</string>
+    <string name="downloadAgain">Download Again</string>
+    <string name="purchase_all_wallpapers">Purchase all wallpapers</string>
+    <string name="random_wallpapers">Random Wallpapers</string>
+    <string name="press_the_home_bar_in_the_memo_screen_to_scroll_to_the_top_of_long_lists">Press the Home bar in the memo screen to scroll to the top of long lists.</string>
+    <string name="download_all">Download All</string>
+    <string name="developed_by_khumo_kwezi_mashapa">Developed by Khumo Kwezi Mashapa</string>
+    <string name="information">Information</string>
+    <string name="tips">Tips</string>
+    <string name="customizations">Customizations</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="check_for_update">Check for update</string>
+    <string name="audio">Audio</string>
+    <string name="wallpaper_destination">Wallpaper destination</string>
+    <string name="download">Download</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="reverse_layout">Reverse Layout</string>
+
+    <string name="subscription_description">Unlock more downloadable wallpapers and receive new wallpapers every month</string>
+    <string name="loading_price_preview">Loading price...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="abstract_wallpapers">Abstract wallpapers</string>
+    <string name="nature_wallpapers">Nature wallpapers</string>
+
+</resources>

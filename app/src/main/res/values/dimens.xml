@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fast_scroll_thumb_width">12dp</dimen>
+    <dimen name="fast_scroll_thumb_height">48dp</dimen>
+    <dimen name="fast_scroll_thumb_radius">6dp</dimen>
+
+</resources>

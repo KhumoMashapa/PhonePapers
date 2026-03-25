@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="reverse_FAB">#EADDFF</color>
+
+    <color name="colorPrimary">#073042</color>
+    <color name="colorPrimaryDark">#073042</color>
+    <color name="ProgressBar">#4EC0FF</color>
+    <color name="colorAccent">#2B9ED8</color>
+    <color name="colorBackground">#4285F4</color>
+    <color name="textColor">#000000</color>
+    <color name="colorBackground2">#ffffff</color>
+    <color name="view_pager_background">#0984D9</color>
+    <color name="icFocused" />
+    <color name="icPressed" />
+    <color name="Btn_background">#0984D9</color>
+    <color name="icActive" />
+    <color name="actionButton">#4EC0FF</color>
+    <color name="numberButton">#0984D9</color>
+    <color name="skyBlue">#000000</color>
+
+    <color name="gradient1">#073042</color>
+    <color name="gradient2">#4285F4</color>
+    <color name="gradient3">#4EC0FF</color>
+
+
+    <color name="view_pager">#073042</color>
+
+    <color name="cancel_blue">#073042</color>
+    <color name="mainGreen">#3DDC84</color>
+
+    <color name="darkBlue">#073042</color>
+    <color name="grey">#ECECEC</color>
+    <color name="greyDark">#656565</color>
+    <color name="greyDarkDisabled">#656565</color>
+
+    <color name="opaqueBg">#61000000</color>
+
+    <color name="lightBlue">#266D86</color>
+
+    <color name="playerColor">#073042</color>
+
+    <color name="colorblack">#24272E</color>
+    <color name="colorGray">#7C7C80</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlue">#738DEF</color>
+
+    <color name="orange">#FF6A44</color>
+    <color name="orange_light">#FF8A65</color>
+    <color name="dark_orange">#9E6A4F</color>
+    <color name="dark_white_background">#D6D5D0</color>
+    <color name="card_background_light">#F5F5F5</color>
+
+</resources>
